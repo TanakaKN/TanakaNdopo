@@ -45,7 +45,7 @@ Hands-on **AWS architecture deployments** — from S3 storage to EC2 hosting, VP
 
 ## Get in Touch 📬  
 
-- **LinkedIn**: [linkedin.com/in/tanaka-keith-ndopo](#)  
+- **LinkedIn**: [linkedin.com/in/tanaka-ndopo](#)  
 - **Email**: tkndopo@yahoo.com  
 - **Blog/Portfolio**: *(coming soon – Data Science & Bioinformatics blog posts)*  
 

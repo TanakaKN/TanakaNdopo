@@ -108,7 +108,7 @@ My long-term interests sit at the intersection of:
 ---
 
 ## 🌍 **Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanaka-ndopo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanakandopo)
 [![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:tkndopo@yahoo.com)
 
 ---
